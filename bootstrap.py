@@ -1,4 +1,4 @@
-from gamestate import StateMachine
+from statemachine import StateMachine
 from map import Map
 from inputhandler import InputHandler
 
